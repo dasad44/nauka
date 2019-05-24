@@ -1,0 +1,11 @@
+C:\Users\dawidsokol\source\repos\cshaprobjective\cshaprobjective\bin\Debug\netcoreapp2.1\cshaprobjective.deps.json
+C:\Users\dawidsokol\source\repos\cshaprobjective\cshaprobjective\bin\Debug\netcoreapp2.1\cshaprobjective.runtimeconfig.json
+C:\Users\dawidsokol\source\repos\cshaprobjective\cshaprobjective\bin\Debug\netcoreapp2.1\cshaprobjective.runtimeconfig.dev.json
+C:\Users\dawidsokol\source\repos\cshaprobjective\cshaprobjective\bin\Debug\netcoreapp2.1\cshaprobjective.dll
+C:\Users\dawidsokol\source\repos\cshaprobjective\cshaprobjective\bin\Debug\netcoreapp2.1\cshaprobjective.pdb
+C:\Users\dawidsokol\source\repos\cshaprobjective\cshaprobjective\obj\Debug\netcoreapp2.1\cshaprobjective.csprojAssemblyReference.cache
+C:\Users\dawidsokol\source\repos\cshaprobjective\cshaprobjective\obj\Debug\netcoreapp2.1\cshaprobjective.csproj.CoreCompileInputs.cache
+C:\Users\dawidsokol\source\repos\cshaprobjective\cshaprobjective\obj\Debug\netcoreapp2.1\cshaprobjective.AssemblyInfoInputs.cache
+C:\Users\dawidsokol\source\repos\cshaprobjective\cshaprobjective\obj\Debug\netcoreapp2.1\cshaprobjective.AssemblyInfo.cs
+C:\Users\dawidsokol\source\repos\cshaprobjective\cshaprobjective\obj\Debug\netcoreapp2.1\cshaprobjective.dll
+C:\Users\dawidsokol\source\repos\cshaprobjective\cshaprobjective\obj\Debug\netcoreapp2.1\cshaprobjective.pdb
