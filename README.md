@@ -1,1 +1,5 @@
-# Simple code usage exampers in C#/WPF
+# Features usage c# in practise
+
+> .NET 4.7.2
+
+## 
